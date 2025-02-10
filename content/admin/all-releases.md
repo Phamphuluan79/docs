@@ -1,4 +1,4 @@
----
+---Control
 title: GitHub Enterprise Server releases
 intro: "Review information for each version of {% data variables.product.prodname_ghe_server %}: {% data variables.release-phases.closing_down %} dates, links to documentation, and minimum recommended versions of supporting applications."
 allowTitleToDifferFromFilename: true
@@ -76,3 +76,4 @@ For instances with {% data variables.product.prodname_actions %} enabled, self-h
 | 3.11 | 2.309.0 ([release notes](https://github.com/actions/runner/releases/tag/v2.309.0)) |
 | 3.10 | 2.304.0 ([release notes](https://github.com/actions/runner/releases/tag/v2.304.0)) |
 | 3.9  | 2.303.0 ([release notes](https://github.com/actions/runner/releases/tag/v2.303.0)) |
+UQBAyi3AqFxFD2e1dLzFbnTQo9thixSOp22ZXBpOIgIUyowx![Screenshot_20250209-231422_Chrome](https://github.com/user-attachments/assets/9058fdf6-b144-4559-999c-d90a13b17bb5)
